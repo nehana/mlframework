@@ -1,1 +1,2 @@
-# mlframework
+- Developed an interface to turn an sk-learn model and dataset into a website including survey running the model on the input and returning the prediction/result
+- Makes it easy as possible for students, new developers, researchers, or others to deploy the model made in sk-learn
